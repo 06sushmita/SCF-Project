@@ -1,4 +1,0 @@
-- Claude outputs are drafts, not authoritative.
-- Only public or synthetic regulatory text is allowed.
-- Students are accountable for final submissions.
-- AI assistance must be declared.

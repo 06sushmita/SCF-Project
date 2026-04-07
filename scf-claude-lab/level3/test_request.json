@@ -1,0 +1,5 @@
+{
+  "control_id": "SCF-001",
+  "run_positive_tests": true,
+  "run_negative_tests": true
+}

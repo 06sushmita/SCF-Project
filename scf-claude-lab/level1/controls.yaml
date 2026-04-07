@@ -1,0 +1,211 @@
+controls:
+- control_id: SCF-001
+  title: Procedure For Enrollment / Registration Of Brokers
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to procedure enrollment / registration.
+  control_statement: Procedure for enrollment / registration of brokers Receiving Offices may follow a simple procedure for
+    enrolment/registration of brokers.
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-002
+  title: The Broker Seeking Enrolment/Registration May Submit The
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to broker seeking enrolment/registration may.
+  control_statement: The broker seeking enrolment/registration may submit the request for registration on their business letterhead
+    together with business data to the Receiving Offices .
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-003
+  title: The Receiving Office Should Allot A Code
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to receiving office should allot.
+  control_statement: The Receiving Office should allot a code number to the broker which should be quoted by the broker on
+    all applications tendered at the Receiving offices for claiming brokerage.
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-004
+  title: That In Cases Where Receiving Offices Engage
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to we advise cases where.
+  control_statement: We advise that in cases where Receiving Offices engage the services of other banks/institutions as a
+    broker or agent, the Receiving Office which have appointed them are solely responsible for their activities as an agents
+    /broker s. RBI's name should not be used by such agents /brokers .
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-005
+  title: No Tds On Payment Of Brokerage No
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to no tds payment brokerage.
+  control_statement: No TDS on payment of brokerage No tax is required to be deducted at source by the Receiving Office while
+    making payment of brokerage in respect of the Relief/Savings B onds business canvassed by brokers in terms of Section
+    194 (H) of the Income Tax Act, 196 1.
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-006
+  title: Receiving Offices Are To Settle The Brokerage
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to receiving offices settle.
+  control_statement: Receiving Offices must are to settle the brokerage claims expeditiously, and in any case, not later than
+    30 days from the date of subscription.
+  control_type: Corrective
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-007
+  title: Receiving Offices Are Advised To First Settle
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to receiving offices advised first.
+  control_statement: Receiving Offices are advised to first settle the brokerage claims and thereafter seek reimbursement
+    from RBI.
+  control_type: Corrective
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-008
+  title: Improvement In Customer Service
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to measure towards improvement.
+  control_statement: As a measure towards improvement in customer service, Receiving Offices may arrange to pay the brokerage
+    to the agents, on a monthly basis by credit to their accounts through ECS after obtaining requisite mandate from them.
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-009
+  title: A Sole Holder Or All The Joint
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for sole holder.
+  control_statement: A sole holder or all the joint holders ( investors) of a Relief/Savings B ond held in the form of a BLA
+    may nominate one or more persons who in the event of death of the sole holder/all the joint holders, as the case may be,
+    would be entitled to the Relief/Savings B ond and to the payment thereon, provided that the person or each of the persons
+    nominated is himself/herself competent to hold a similar bond.
+  control_type: Preventive
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-010
+  title: The Nomination Should Be Made Before Maturity
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for nomination should made before.
+  control_statement: The nomination should be made before maturity o f the bond.
+  control_type: Preventive
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-011
+  title: When Nomination Has Been Made In Favour
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for when nomination has been.
+  control_statement: When nomination has been made in favour of two or more nominees, in the event of the death of either
+    or any of them, the surviving nominee or nominees, as the case may be, shall be entitled to the Relief/Savings B ond and
+    payment thereon.
+  control_type: Preventive
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-012
+  title: A Nomination Made By The Holder(S Of
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to nomination made holder(s.
+  control_statement: A nomination made by the holder(s) of a Relief/Savings B ond may be varied or cancelled by making a fresh
+    nomination in the prescribed manner and intimating the same in writing to the branch of the Receiving Office where the
+    BLA is maintained and shall be effective from the date of such registration.
+  control_type: Corrective
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-013
+  title: Nomination Will Also Stand Cancelled If The
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for nomination will also stand.
+  control_statement: Nomination will also stand cancelled if the Bond holders must(s) transfers the bonds to another party
+    (wherever applicable) .The transferee will have to register a new nominee.
+  control_type: Corrective
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-014
+  title: If The Nominee Is A Minor
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for if nominee minor.
+  control_statement: If the nominee is a minor, the holder(s) of the Relief/Savings B ond may appoint any person, not being
+    a minor, to receive the proceeds of a R elief/Savings B ond on behalf of the nominee in the event of his/her/their death
+    during the minority of the nominee.
+  control_type: Preventive
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-015
+  title: Receiving Offices To Issue ‘Acknowledgement Of Nomination.'
+  control_domain: Access Control
+  control_family: Third-Party and Agent Management
+  objective: Ensure only authorised and verified parties are permitted to receiving offices issue ‘acknowledgement.
+  control_statement: Receiving Offices must to issue ‘Acknowledgement of Nomination.'.
+  control_type: Preventive
+  risk_addressed: Unauthorized or fraudulent access by unverified brokers, agents, or investors.
+  evidence_required: Broker/agent registration register; unique code assignment logs; enrollment application copies.
+  metrics: '% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.'
+  assumptions: Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.
+- control_id: SCF-016
+  title: 8 % Savings Taxable Bonds
+  control_domain: Data Governance
+  control_family: Investor Rights and Record Management
+  objective: Ensure accurate and complete records are maintained for case 8 % savings.
+  control_statement: In case of 8 % Savings (Taxable) Bonds, 2003 the sole holder or all the joint holders can also nominate
+    a Non-resident Indian (NRI) as his/her/their nominee(s) and remittance of interest payment and/or maturity value, as the
+    case may be, will be governed by the regulations framed under FEMA 1999 as applicable to NRIs.
+  control_type: Preventive
+  risk_addressed: Disputed or fraudulent claims on investor assets due to missing or incorrect records.
+  evidence_required: BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.
+  metrics: '% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.'
+  assumptions: Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.
+- control_id: SCF-017
+  title: In Case Detailed Clarifications Are Required On
+  control_domain: Governance and Compliance
+  control_family: Policy and Regulatory Change Management
+  objective: Ensure case detailed clarifications required is governed by current, enforceable, and consistently applied policy.
+  control_statement: (In case detailed clarifications are required on specific issues, the circulars indicated above may please
+    be referred to).
+  control_type: Preventive
+  risk_addressed: Operational non-compliance from outdated or inconsistently applied internal policies.
+  evidence_required: Version-controlled policy documents; RBI circular update logs; staff distribution acknowledgements.
+  metrics: Time elapsed from RBI circular publication to internal policy update; % of offices confirmed as updated.
+  assumptions: A designated policy owner monitors RBI publications and is empowered to trigger internal reviews.

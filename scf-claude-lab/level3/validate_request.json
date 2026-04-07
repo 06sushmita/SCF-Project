@@ -1,0 +1,10 @@
+{
+  "control_id": "SCF-001",
+  "context": {
+    "actor_type": "authorized_user",
+    "metadata": {
+      "authorized": true
+    }
+  },
+  "policy_type": "python"
+}

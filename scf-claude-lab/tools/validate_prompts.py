@@ -1,4 +1,4 @@
-import yaml, json
+import yaml,json;
 from jsonschema import validate
 from pathlib import Path
 

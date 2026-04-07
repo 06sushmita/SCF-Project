@@ -1,0 +1,807 @@
+{
+  "registry_version": "2.0",
+  "last_updated": "2026-03-28T17:55:38.254747",
+  "total_controls": 17,
+  "controls": [
+    {
+      "control_id": "SCF-001", 
+      
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-001",
+          "created_date": "2026-03-28T17:55:38.232875",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Procedure For Enrollment / Registration Of Brokers",
+          "objective": "Ensure only authorised and verified parties are permitted to procedure enrollment / registration.",
+          "control_statement": "Procedure for enrollment / registration of brokers Receiving Offices may follow a simple procedure for enrolment/registration of brokers.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.232894",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.232913",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.232922"
+    },
+    {
+      "control_id": "SCF-002",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-002",
+          "created_date": "2026-03-28T17:55:38.233713",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "The Broker Seeking Enrolment/Registration May Submit The",
+          "objective": "Ensure only authorised and verified parties are permitted to broker seeking enrolment/registration may.",
+          "control_statement": "The broker seeking enrolment/registration may submit the request for registration on their business letterhead together with business data to the Receiving Offices .",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.233723",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.233733",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.233737"
+    },
+    {
+      "control_id": "SCF-003",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-003",
+          "created_date": "2026-03-28T17:55:38.234327",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "The Receiving Office Should Allot A Code",
+          "objective": "Ensure only authorised and verified parties are permitted to receiving office should allot.",
+          "control_statement": "The Receiving Office should allot a code number to the broker which should be quoted by the broker on all applications tendered at the Receiving offices for claiming brokerage.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.234333",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.234340",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.234343"
+    },
+    {
+      "control_id": "SCF-004",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-004",
+          "created_date": "2026-03-28T17:55:38.235518",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "That In Cases Where Receiving Offices Engage",
+          "objective": "Ensure only authorised and verified parties are permitted to we advise cases where.",
+          "control_statement": "We advise that in cases where Receiving Offices engage the services of other banks/institutions as a broker or agent, the Receiving Office which have appointed them are solely responsible for their activities as an agents /broker s. RBI's name should not be used by such agents /brokers .",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.235530",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.235562",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.235568"
+    },
+    {
+      "control_id": "SCF-005",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-005",
+          "created_date": "2026-03-28T17:55:38.236955",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "No Tds On Payment Of Brokerage No",
+          "objective": "Ensure only authorised and verified parties are permitted to no tds payment brokerage.",
+          "control_statement": "No TDS on payment of brokerage No tax is required to be deducted at source by the Receiving Office while making payment of brokerage in respect of the Relief/Savings B onds business canvassed by brokers in terms of Section 194 (H) of the Income Tax Act, 196 1.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.236970",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.236997",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.237029"
+    },
+    {
+      "control_id": "SCF-006",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-006",
+          "created_date": "2026-03-28T17:55:38.238168",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Receiving Offices Are To Settle The Brokerage",
+          "objective": "Ensure only authorised and verified parties are permitted to receiving offices settle.",
+          "control_statement": "Receiving Offices must are to settle the brokerage claims expeditiously, and in any case, not later than 30 days from the date of subscription.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Corrective",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.238179",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.238187",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.238222"
+    },
+    {
+      "control_id": "SCF-007",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-007",
+          "created_date": "2026-03-28T17:55:38.239048",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Receiving Offices Are Advised To First Settle",
+          "objective": "Ensure only authorised and verified parties are permitted to receiving offices advised first.",
+          "control_statement": "Receiving Offices are advised to first settle the brokerage claims and thereafter seek reimbursement from RBI.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Corrective",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.239055",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.239060",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.239063"
+    },
+    {
+      "control_id": "SCF-008",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-008",
+          "created_date": "2026-03-28T17:55:38.239906",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Improvement In Customer Service",
+          "objective": "Ensure only authorised and verified parties are permitted to measure towards improvement.",
+          "control_statement": "As a measure towards improvement in customer service, Receiving Offices may arrange to pay the brokerage to the agents, on a monthly basis by credit to their accounts through ECS after obtaining requisite mandate from them.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.239912",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.239918",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.239921"
+    },
+    {
+      "control_id": "SCF-009",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-009",
+          "created_date": "2026-03-28T17:55:38.240818",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "A Sole Holder Or All The Joint",
+          "objective": "Ensure accurate and complete records are maintained for sole holder.",
+          "control_statement": "A sole holder or all the joint holders ( investors) of a Relief/Savings B ond held in the form of a BLA may nominate one or more persons who in the event of death of the sole holder/all the joint holders, as the case may be, would be entitled to the Relief/Savings B ond and to the payment thereon, provided that the person or each of the persons nominated is himself/herself competent to hold a similar bond.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.240824",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.240829",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.240832"
+    },
+    {
+      "control_id": "SCF-010",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-010",
+          "created_date": "2026-03-28T17:55:38.241812",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "The Nomination Should Be Made Before Maturity",
+          "objective": "Ensure accurate and complete records are maintained for nomination should made before.",
+          "control_statement": "The nomination should be made before maturity o f the bond.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.241819",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.241826",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.241829"
+    },
+    {
+      "control_id": "SCF-011",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-011",
+          "created_date": "2026-03-28T17:55:38.242901",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "When Nomination Has Been Made In Favour",
+          "objective": "Ensure accurate and complete records are maintained for when nomination has been.",
+          "control_statement": "When nomination has been made in favour of two or more nominees, in the event of the death of either or any of them, the surviving nominee or nominees, as the case may be, shall be entitled to the Relief/Savings B ond and payment thereon.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.242908",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.242914",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.242917"
+    },
+    {
+      "control_id": "SCF-012",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-012",
+          "created_date": "2026-03-28T17:55:38.244044",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "A Nomination Made By The Holder(S Of",
+          "objective": "Ensure only authorised and verified parties are permitted to nomination made holder(s.",
+          "control_statement": "A nomination made by the holder(s) of a Relief/Savings B ond may be varied or cancelled by making a fresh nomination in the prescribed manner and intimating the same in writing to the branch of the Receiving Office where the BLA is maintained and shall be effective from the date of such registration.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Corrective",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.244050",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.244057",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.244060"
+    },
+    {
+      "control_id": "SCF-013",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-013",
+          "created_date": "2026-03-28T17:55:38.245228",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Nomination Will Also Stand Cancelled If The",
+          "objective": "Ensure accurate and complete records are maintained for nomination will also stand.",
+          "control_statement": "Nomination will also stand cancelled if the Bond holders must(s) transfers the bonds to another party (wherever applicable) .The transferee will have to register a new nominee.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Corrective",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.245235",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.245240",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.245243"
+    },
+    {
+      "control_id": "SCF-014",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-014",
+          "created_date": "2026-03-28T17:55:38.246520",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "If The Nominee Is A Minor",
+          "objective": "Ensure accurate and complete records are maintained for if nominee minor.",
+          "control_statement": "If the nominee is a minor, the holder(s) of the Relief/Savings B ond may appoint any person, not being a minor, to receive the proceeds of a R elief/Savings B ond on behalf of the nominee in the event of his/her/their death during the minority of the nominee.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.246527",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.246534",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.246537"
+    },
+    {
+      "control_id": "SCF-015",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-015",
+          "created_date": "2026-03-28T17:55:38.247841",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "Receiving Offices To Issue ‘Acknowledgement Of Nomination.'",
+          "objective": "Ensure only authorised and verified parties are permitted to receiving offices issue ‘acknowledgement.",
+          "control_statement": "Receiving Offices must to issue ‘Acknowledgement of Nomination.'.",
+          "control_domain": "Access Control",
+          "control_family": "Third-Party and Agent Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Unauthorized or fraudulent access by unverified brokers, agents, or investors.",
+          "evidence_required": "Broker/agent registration register; unique code assignment logs; enrollment application copies.",
+          "metrics": "% of applications bearing a valid registered broker code; number of unauthorised access incidents per quarter.",
+          "assumptions": "Receiving Offices maintain a formal broker registry and have authority to assign and deactivate codes.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.247848",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.247853",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.247856"
+    },
+    {
+      "control_id": "SCF-016",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-016",
+          "created_date": "2026-03-28T17:55:38.250520",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "8 % Savings Taxable Bonds",
+          "objective": "Ensure accurate and complete records are maintained for case 8 % savings.",
+          "control_statement": "In case of 8 % Savings (Taxable) Bonds, 2003 the sole holder or all the joint holders can also nominate a Non-resident Indian (NRI) as his/her/their nominee(s) and remittance of interest payment and/or maturity value, as the case may be, will be governed by the regulations framed under FEMA 1999 as applicable to NRIs.",
+          "control_domain": "Data Governance",
+          "control_family": "Investor Rights and Record Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Disputed or fraudulent claims on investor assets due to missing or incorrect records.",
+          "evidence_required": "BLA nomination records; Acknowledgement of Nomination copies; transfer and cancellation logs.",
+          "metrics": "% of active BLAs with a registered nomination; number of acknowledgements issued vs. nominations filed.",
+          "assumptions": "Receiving Offices have record-keeping systems capable of storing and retrieving per-BLA nomination data.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.250538",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.250551",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.250557"
+    },
+    {
+      "control_id": "SCF-017",
+      "versions": [
+        {
+          "version": "1.0",
+          "control_id": "SCF-017",
+          "created_date": "2026-03-28T17:55:38.254677",
+          "created_by": "pdf_generation",
+          "status": "draft",
+          "title": "In Case Detailed Clarifications Are Required On",
+          "objective": "Ensure case detailed clarifications required is governed by current, enforceable, and consistently applied policy.",
+          "control_statement": "(In case detailed clarifications are required on specific issues, the circulars indicated above may please be referred to).",
+          "control_domain": "Governance and Compliance",
+          "control_family": "Policy and Regulatory Change Management",
+          "control_type": "Preventive",
+          "risk_addressed": "Operational non-compliance from outdated or inconsistently applied internal policies.",
+          "evidence_required": "Version-controlled policy documents; RBI circular update logs; staff distribution acknowledgements.",
+          "metrics": "Time elapsed from RBI circular publication to internal policy update; % of offices confirmed as updated.",
+          "assumptions": "A designated policy owner monitors RBI publications and is empowered to trigger internal reviews.",
+          "amended_from_version": null,
+          "amendment_reason": null,
+          "audit_trail": [
+            {
+              "timestamp": "2026-03-28T17:55:38.254695",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from regulatory clause",
+              "changes": {},
+              "approval_ticket": null
+            },
+            {
+              "timestamp": "2026-03-28T17:55:38.254709",
+              "actor": "pdf_generation",
+              "action": "created",
+              "reason": "Generated from 61MD0825F724310142CBB351B33F9C3F80FA.pdf",
+              "changes": {},
+              "approval_ticket": null
+            }
+          ],
+          "policy_id": null,
+          "test_results_id": null
+        }
+      ],
+      "current_version": "1.0",
+      "search_tags": [],
+      "created_at": "2026-03-28T17:55:38.254715"
+    }
+  ]
+}
