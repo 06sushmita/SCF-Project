@@ -1,0 +1,359 @@
+{
+  "SCF-001": {
+    "control_id": "SCF-001",
+    "title": "Procedure For Enrollment / Registration Of Brokers",
+    "control_statement": "Procedure for enrollment / registration of brokers Receiving Offices may follow a simple procedure for enrolment/registration of brokers.",
+    "objective": "Ensure only authorised and verified parties are permitted to procedure enrollment / registration.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "approved",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275570",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275612",
+    "updated_at": "2026-04-06T08:49:07.275615"
+  },
+  "SCF-002": {
+    "control_id": "SCF-002",
+    "title": "The Broker Seeking Enrolment/Registration May Submit The",
+    "control_statement": "The broker seeking enrolment/registration may submit the request for registration on their business letterhead together with business data to the Receiving Offices .",
+    "objective": "Ensure only authorised and verified parties are permitted to broker seeking enrolment/registration may.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "active",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275624",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275630",
+    "updated_at": "2026-04-06T08:49:07.275632"
+  },
+  "SCF-003": {
+    "control_id": "SCF-003",
+    "title": "The Receiving Office Should Allot A Code",
+    "control_statement": "The Receiving Office should allot a code number to the broker which should be quoted by the broker on all applications tendered at the Receiving offices for claiming brokerage.",
+    "objective": "Ensure only authorised and verified parties are permitted to receiving office should allot.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275636",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275639",
+    "updated_at": "2026-04-06T08:49:07.275641"
+  },
+  "SCF-004": {
+    "control_id": "SCF-004",
+    "title": "That In Cases Where Receiving Offices Engage",
+    "control_statement": "We advise that in cases where Receiving Offices engage the services of other banks/institutions as a broker or agent, the Receiving Office which have appointed them are solely responsible for their activities as an agents /broker s. RBI's name should not be used by such agents /brokers .",
+    "objective": "Ensure only authorised and verified parties are permitted to we advise cases where.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275643",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275646",
+    "updated_at": "2026-04-06T08:49:07.275647"
+  },
+  "SCF-005": {
+    "control_id": "SCF-005",
+    "title": "No Tds On Payment Of Brokerage No",
+    "control_statement": "No TDS on payment of brokerage No tax is required to be deducted at source by the Receiving Office while making payment of brokerage in respect of the Relief/Savings B onds business canvassed by brokers in terms of Section 194 (H) of the Income Tax Act, 196 1.",
+    "objective": "Ensure only authorised and verified parties are permitted to no tds payment brokerage.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275653",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275656",
+    "updated_at": "2026-04-06T08:49:07.275658"
+  },
+  "SCF-006": {
+    "control_id": "SCF-006",
+    "title": "Receiving Offices Are To Settle The Brokerage",
+    "control_statement": "Receiving Offices must are to settle the brokerage claims expeditiously, and in any case, not later than 30 days from the date of subscription.",
+    "objective": "Ensure only authorised and verified parties are permitted to receiving offices settle.",
+    "control_type": "Corrective",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275662",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275665",
+    "updated_at": "2026-04-06T08:49:07.275666"
+  },
+  "SCF-007": {
+    "control_id": "SCF-007",
+    "title": "Receiving Offices Are Advised To First Settle",
+    "control_statement": "Receiving Offices are advised to first settle the brokerage claims and thereafter seek reimbursement from RBI.",
+    "objective": "Ensure only authorised and verified parties are permitted to receiving offices advised first.",
+    "control_type": "Corrective",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275669",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275671",
+    "updated_at": "2026-04-06T08:49:07.275673"
+  },
+  "SCF-008": {
+    "control_id": "SCF-008",
+    "title": "Improvement In Customer Service",
+    "control_statement": "As a measure towards improvement in customer service, Receiving Offices may arrange to pay the brokerage to the agents, on a monthly basis by credit to their accounts through ECS after obtaining requisite mandate from them.",
+    "objective": "Ensure only authorised and verified parties are permitted to measure towards improvement.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275675",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275678",
+    "updated_at": "2026-04-06T08:49:07.275680"
+  },
+  "SCF-009": {
+    "control_id": "SCF-009",
+    "title": "A Sole Holder Or All The Joint",
+    "control_statement": "A sole holder or all the joint holders ( investors) of a Relief/Savings B ond held in the form of a BLA may nominate one or more persons who in the event of death of the sole holder/all the joint holders, as the case may be, would be entitled to the Relief/Savings B ond and to the payment thereon, provided that the person or each of the persons nominated is himself/herself competent to hold a similar bond.",
+    "objective": "Ensure accurate and complete records are maintained for sole holder.",
+    "control_type": "Preventive",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275682",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275685",
+    "updated_at": "2026-04-06T08:49:07.275686"
+  },
+  "SCF-010": {
+    "control_id": "SCF-010",
+    "title": "The Nomination Should Be Made Before Maturity",
+    "control_statement": "The nomination should be made before maturity o f the bond.",
+    "objective": "Ensure accurate and complete records are maintained for nomination should made before.",
+    "control_type": "Preventive",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275689",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275691",
+    "updated_at": "2026-04-06T08:49:07.275693"
+  },
+  "SCF-011": {
+    "control_id": "SCF-011",
+    "title": "When Nomination Has Been Made In Favour",
+    "control_statement": "When nomination has been made in favour of two or more nominees, in the event of the death of either or any of them, the surviving nominee or nominees, as the case may be, shall be entitled to the Relief/Savings B ond and payment thereon.",
+    "objective": "Ensure accurate and complete records are maintained for when nomination has been.",
+    "control_type": "Preventive",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275695",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275698",
+    "updated_at": "2026-04-06T08:49:07.275699"
+  },
+  "SCF-012": {
+    "control_id": "SCF-012",
+    "title": "A Nomination Made By The Holder(S Of",
+    "control_statement": "A nomination made by the holder(s) of a Relief/Savings B ond may be varied or cancelled by making a fresh nomination in the prescribed manner and intimating the same in writing to the branch of the Receiving Office where the BLA is maintained and shall be effective from the date of such registration.",
+    "objective": "Ensure only authorised and verified parties are permitted to nomination made holder(s.",
+    "control_type": "Corrective",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275702",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275705",
+    "updated_at": "2026-04-06T08:49:07.275707"
+  },
+  "SCF-013": {
+    "control_id": "SCF-013",
+    "title": "Nomination Will Also Stand Cancelled If The",
+    "control_statement": "Nomination will also stand cancelled if the Bond holders must(s) transfers the bonds to another party (wherever applicable) .The transferee will have to register a new nominee.",
+    "objective": "Ensure accurate and complete records are maintained for nomination will also stand.",
+    "control_type": "Corrective",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275710",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275712",
+    "updated_at": "2026-04-06T08:49:07.275714"
+  },
+  "SCF-014": {
+    "control_id": "SCF-014",
+    "title": "If The Nominee Is A Minor",
+    "control_statement": "If the nominee is a minor, the holder(s) of the Relief/Savings B ond may appoint any person, not being a minor, to receive the proceeds of a R elief/Savings B ond on behalf of the nominee in the event of his/her/their death during the minority of the nominee.",
+    "objective": "Ensure accurate and complete records are maintained for if nominee minor.",
+    "control_type": "Preventive",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275716",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275719",
+    "updated_at": "2026-04-06T08:49:07.275721"
+  },
+  "SCF-015": {
+    "control_id": "SCF-015",
+    "title": "Receiving Offices To Issue \u00e2\u20ac\u02dcAcknowledgement Of Nomination.'",
+    "control_statement": "Receiving Offices must to issue \u00e2\u20ac\u02dcAcknowledgement of Nomination.'.",
+    "objective": "Ensure only authorised and verified parties are permitted to receiving offices issue \u00e2\u20ac\u02dcacknowledgement.",
+    "control_type": "Preventive",
+    "control_domain": "Access Control",
+    "control_family": "Third-Party and Agent Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275723",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275726",
+    "updated_at": "2026-04-06T08:49:07.275727"
+  },
+  "SCF-016": {
+    "control_id": "SCF-016",
+    "title": "8 % Savings Taxable Bonds",
+    "control_statement": "In case of 8 % Savings (Taxable) Bonds, 2003 the sole holder or all the joint holders can also nominate a Non-resident Indian (NRI) as his/her/their nominee(s) and remittance of interest payment and/or maturity value, as the case may be, will be governed by the regulations framed under FEMA 1999 as applicable to NRIs.",
+    "objective": "Ensure accurate and complete records are maintained for case 8 % savings.",
+    "control_type": "Preventive",
+    "control_domain": "Data Governance",
+    "control_family": "Investor Rights and Record Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275730",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275733",
+    "updated_at": "2026-04-06T08:49:07.275734"
+  },
+  "SCF-017": {
+    "control_id": "SCF-017",
+    "title": "In Case Detailed Clarifications Are Required On",
+    "control_statement": "(In case detailed clarifications are required on specific issues, the circulars indicated above may please be referred to).",
+    "objective": "Ensure case detailed clarifications required is governed by current, enforceable, and consistently applied policy.",
+    "control_type": "Preventive",
+    "control_domain": "Governance and Compliance",
+    "control_family": "Policy and Regulatory Change Management",
+    "current_version": "1.0",
+    "lifecycle_state": "draft",
+    "versions": [
+      {
+        "version": "1.0",
+        "created_at": "2026-04-06T08:49:07.275737",
+        "created_by": "system",
+        "changes": "Initial version from control.yaml"
+      }
+    ],
+    "created_at": "2026-04-06T08:49:07.275740",
+    "updated_at": "2026-04-06T08:49:07.275741"
+  }
+}

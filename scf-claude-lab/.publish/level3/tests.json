@@ -1,0 +1,416 @@
+{
+  "test_suite": "SCF Control Compliance Tests",
+  "description": "Consolidated test cases for all SCF controls",
+  "total_tests": 34,
+  "generated_at": "2026-04-06T08:49:59.770955",
+  "tests": [
+    {
+      "test_id": "SCF-001-pass",
+      "test_name": "Compliant: Procedure For Enrollment / Registration Of Brokers",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "Procedure for enrollment / registration of brokers Receiving Offices may follow "
+    },
+    {
+      "test_id": "SCF-001-fail",
+      "test_name": "Violation: Procedure For Enrollment / Registration Of Brokers",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "Procedure for enrollment / registration of brokers Receiving Offices may follow "
+    },
+    {
+      "test_id": "SCF-002-pass",
+      "test_name": "Compliant: The Broker Seeking Enrolment/Registration May Submit The",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "The broker seeking enrolment/registration may submit the request for registratio"
+    },
+    {
+      "test_id": "SCF-002-fail",
+      "test_name": "Violation: The Broker Seeking Enrolment/Registration May Submit The",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "The broker seeking enrolment/registration may submit the request for registratio"
+    },
+    {
+      "test_id": "SCF-003-pass",
+      "test_name": "Compliant: The Receiving Office Should Allot A Code",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "The Receiving Office should allot a code number to the broker which should be qu"
+    },
+    {
+      "test_id": "SCF-003-fail",
+      "test_name": "Violation: The Receiving Office Should Allot A Code",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "The Receiving Office should allot a code number to the broker which should be qu"
+    },
+    {
+      "test_id": "SCF-004-pass",
+      "test_name": "Compliant: That In Cases Where Receiving Offices Engage",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "We advise that in cases where Receiving Offices engage the services of other ban"
+    },
+    {
+      "test_id": "SCF-004-fail",
+      "test_name": "Violation: That In Cases Where Receiving Offices Engage",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "We advise that in cases where Receiving Offices engage the services of other ban"
+    },
+    {
+      "test_id": "SCF-005-pass",
+      "test_name": "Compliant: No Tds On Payment Of Brokerage No",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "No TDS on payment of brokerage No tax is required to be deducted at source by th"
+    },
+    {
+      "test_id": "SCF-005-fail",
+      "test_name": "Violation: No Tds On Payment Of Brokerage No",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "No TDS on payment of brokerage No tax is required to be deducted at source by th"
+    },
+    {
+      "test_id": "SCF-006-pass",
+      "test_name": "Compliant: Receiving Offices Are To Settle The Brokerage",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "Receiving Offices must are to settle the brokerage claims expeditiously, and in "
+    },
+    {
+      "test_id": "SCF-006-fail",
+      "test_name": "Violation: Receiving Offices Are To Settle The Brokerage",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "Receiving Offices must are to settle the brokerage claims expeditiously, and in "
+    },
+    {
+      "test_id": "SCF-007-pass",
+      "test_name": "Compliant: Receiving Offices Are Advised To First Settle",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "Receiving Offices are advised to first settle the brokerage claims and thereafte"
+    },
+    {
+      "test_id": "SCF-007-fail",
+      "test_name": "Violation: Receiving Offices Are Advised To First Settle",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "Receiving Offices are advised to first settle the brokerage claims and thereafte"
+    },
+    {
+      "test_id": "SCF-008-pass",
+      "test_name": "Compliant: Improvement In Customer Service",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "As a measure towards improvement in customer service, Receiving Offices may arra"
+    },
+    {
+      "test_id": "SCF-008-fail",
+      "test_name": "Violation: Improvement In Customer Service",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "As a measure towards improvement in customer service, Receiving Offices may arra"
+    },
+    {
+      "test_id": "SCF-009-pass",
+      "test_name": "Compliant: A Sole Holder Or All The Joint",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "A sole holder or all the joint holders ( investors) of a Relief/Savings B ond he"
+    },
+    {
+      "test_id": "SCF-009-fail",
+      "test_name": "Violation: A Sole Holder Or All The Joint",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "A sole holder or all the joint holders ( investors) of a Relief/Savings B ond he"
+    },
+    {
+      "test_id": "SCF-010-pass",
+      "test_name": "Compliant: The Nomination Should Be Made Before Maturity",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "The nomination should be made before maturity o f the bond."
+    },
+    {
+      "test_id": "SCF-010-fail",
+      "test_name": "Violation: The Nomination Should Be Made Before Maturity",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "The nomination should be made before maturity o f the bond."
+    },
+    {
+      "test_id": "SCF-011-pass",
+      "test_name": "Compliant: When Nomination Has Been Made In Favour",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "When nomination has been made in favour of two or more nominees, in the event of"
+    },
+    {
+      "test_id": "SCF-011-fail",
+      "test_name": "Violation: When Nomination Has Been Made In Favour",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "When nomination has been made in favour of two or more nominees, in the event of"
+    },
+    {
+      "test_id": "SCF-012-pass",
+      "test_name": "Compliant: A Nomination Made By The Holder(S Of",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "A nomination made by the holder(s) of a Relief/Savings B ond may be varied or ca"
+    },
+    {
+      "test_id": "SCF-012-fail",
+      "test_name": "Violation: A Nomination Made By The Holder(S Of",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "A nomination made by the holder(s) of a Relief/Savings B ond may be varied or ca"
+    },
+    {
+      "test_id": "SCF-013-pass",
+      "test_name": "Compliant: Nomination Will Also Stand Cancelled If The",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "Nomination will also stand cancelled if the Bond holders must(s) transfers the b"
+    },
+    {
+      "test_id": "SCF-013-fail",
+      "test_name": "Violation: Nomination Will Also Stand Cancelled If The",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "Nomination will also stand cancelled if the Bond holders must(s) transfers the b"
+    },
+    {
+      "test_id": "SCF-014-pass",
+      "test_name": "Compliant: If The Nominee Is A Minor",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "If the nominee is a minor, the holder(s) of the Relief/Savings B ond may appoint"
+    },
+    {
+      "test_id": "SCF-014-fail",
+      "test_name": "Violation: If The Nominee Is A Minor",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "If the nominee is a minor, the holder(s) of the Relief/Savings B ond may appoint"
+    },
+    {
+      "test_id": "SCF-015-pass",
+      "test_name": "Compliant: Receiving Offices To Issue \u00e2\u20ac\u02dcAcknowledgement Of Nomination.'",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "Receiving Offices must to issue \u00e2\u20ac\u02dcAcknowledgement of Nomination.'."
+    },
+    {
+      "test_id": "SCF-015-fail",
+      "test_name": "Violation: Receiving Offices To Issue \u00e2\u20ac\u02dcAcknowledgement Of Nomination.'",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "Receiving Offices must to issue \u00e2\u20ac\u02dcAcknowledgement of Nomination.'."
+    },
+    {
+      "test_id": "SCF-016-pass",
+      "test_name": "Compliant: 8 % Savings Taxable Bonds",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "In case of 8 % Savings (Taxable) Bonds, 2003 the sole holder or all the joint ho"
+    },
+    {
+      "test_id": "SCF-016-fail",
+      "test_name": "Violation: 8 % Savings Taxable Bonds",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "In case of 8 % Savings (Taxable) Bonds, 2003 the sole holder or all the joint ho"
+    },
+    {
+      "test_id": "SCF-017-pass",
+      "test_name": "Compliant: In Case Detailed Clarifications Are Required On",
+      "context": {
+        "actor_type": "authorized_user",
+        "metadata": {
+          "authorized": true
+        }
+      },
+      "expected": "PASS",
+      "statement_verified": "(In case detailed clarifications are required on specific issues, the circulars "
+    },
+    {
+      "test_id": "SCF-017-fail",
+      "test_name": "Violation: In Case Detailed Clarifications Are Required On",
+      "context": {
+        "actor_type": "unauthorized_user",
+        "metadata": {
+          "authorized": false
+        }
+      },
+      "expected": "FAIL",
+      "statement_verified": "(In case detailed clarifications are required on specific issues, the circulars "
+    }
+  ]
+}

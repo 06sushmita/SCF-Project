@@ -1,0 +1,156 @@
+{
+  "risks": [
+    {
+      "risk_id": "RSK-001",
+      "domain": "Information Security Awareness",
+      "risk_title": "Phishing and Social Engineering via RBI Brand Impersonation",
+      "description": "Attackers impersonate RBI through emails, SMS, or phone calls to extract sensitive investor information such as bank account details or passwords.",
+      "likelihood": "High",
+      "impact": "High",
+      "inherent_risk_rating": "Critical",
+      "mitigating_controls": [
+        "Staff awareness training",
+        "Investor advisories",
+        "Incident reporting channel"
+      ],
+      "residual_risk_rating": "Medium",
+      "risk_owner": "Compliance / Information Security Team",
+      "regulatory_reference": "RBI Master Directions — Caution notice on impersonation"
+    },
+    {
+      "risk_id": "RSK-002",
+      "domain": "Access Control — Third-Party and Agent Management",
+      "risk_title": "Unauthorized Broker Activity and Fraudulent Brokerage Claims",
+      "description": "Unregistered or deactivated brokers submit applications or claims using invalid or stolen broker codes, resulting in fraudulent payments.",
+      "likelihood": "Medium",
+      "impact": "High",
+      "inherent_risk_rating": "High",
+      "mitigating_controls": [
+        "Formal broker enrollment procedure",
+        "Unique code assignment and verification",
+        "Dormant broker delisting after 2 years"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Receiving Office Operations Manager",
+      "regulatory_reference": "RBI Master Directions — Section A: Appointment / Delisting of Brokers"
+    },
+    {
+      "risk_id": "RSK-003",
+      "domain": "Access Control — Third-Party and Agent Management",
+      "risk_title": "Misuse of RBI Brand by Sub-Agents",
+      "description": "Sub-agents appointed by Receiving Offices falsely claim RBI endorsement in marketing materials, misleading investors and exposing Receiving Offices to regulatory and reputational liability.",
+      "likelihood": "Medium",
+      "impact": "Medium",
+      "inherent_risk_rating": "Medium",
+      "mitigating_controls": [
+        "Contractual brand-use prohibition in sub-agent agreements",
+        "Periodic audit of agent marketing materials"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Receiving Office Compliance Officer",
+      "regulatory_reference": "RBI Master Directions — Section A.2: Appointment of sub-agents"
+    },
+    {
+      "risk_id": "RSK-004",
+      "domain": "Financial Compliance",
+      "risk_title": "Delayed or Non-Compliant Brokerage Settlement",
+      "description": "Brokerage claims are not settled within the mandated 30-day window, leading to agent disputes, regulatory findings, and reputational damage.",
+      "likelihood": "Medium",
+      "impact": "Medium",
+      "inherent_risk_rating": "Medium",
+      "mitigating_controls": [
+        "30-day settlement SLA tracking",
+        "Monthly ECS payment cycle",
+        "Advance reimbursement from CAS Nagpur"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Finance / Treasury Team",
+      "regulatory_reference": "RBI Master Directions — Section B.3: Brokerage claims"
+    },
+    {
+      "risk_id": "RSK-005",
+      "domain": "Monitoring and Auditing",
+      "risk_title": "Unreconciled Brokerage Reimbursement Accounts",
+      "description": "Failure to submit accurate monthly remittance reports or Appendix IV statements results in unreconciled advance payments and adverse audit findings.",
+      "likelihood": "Low",
+      "impact": "High",
+      "inherent_risk_rating": "High",
+      "mitigating_controls": [
+        "Monthly CAS remittance reporting",
+        "Appendix IV statement submission for 10% balance",
+        "Internal reconciliation review"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Finance / Audit Team",
+      "regulatory_reference": "RBI Master Directions — Section B.3d: Reimbursement centralized at CAS Nagpur"
+    },
+    {
+      "risk_id": "RSK-006",
+      "domain": "Data Governance",
+      "risk_title": "Missing or Invalid Nomination Records for Bond Holders",
+      "description": "Bond proceeds are disbursed to the wrong party or disputed in court because nominations were never registered, were registered after maturity, or were not updated following a bond transfer.",
+      "likelihood": "Medium",
+      "impact": "High",
+      "inherent_risk_rating": "High",
+      "mitigating_controls": [
+        "Mandatory nomination registration with written acknowledgement",
+        "Automatic nomination cancellation on transfer",
+        "Per-BLA nomination tracking"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Receiving Office Records Manager",
+      "regulatory_reference": "RBI Master Directions — Section C: Nomination Facility"
+    },
+    {
+      "risk_id": "RSK-007",
+      "domain": "Data Governance",
+      "risk_title": "Unauthorized or Undocumented Nomination Changes",
+      "description": "Nomination records are altered without the bond holder's written consent, enabling a fraudulent beneficiary to claim bond proceeds.",
+      "likelihood": "Low",
+      "impact": "High",
+      "inherent_risk_rating": "High",
+      "mitigating_controls": [
+        "Written change requests with date-stamped registration",
+        "Access-controlled nomination modification workflow",
+        "Audit log of all nomination events"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Receiving Office Compliance Officer",
+      "regulatory_reference": "RBI Master Directions — Section C.4: Variation/cancellation of nomination"
+    },
+    {
+      "risk_id": "RSK-008",
+      "domain": "Regulatory Compliance",
+      "risk_title": "Invalid NRI Nomination Under Prohibited Bond Scheme",
+      "description": "A Non-Resident Indian is registered as a nominee under the 7.75% Savings (Taxable) Bonds 2018 scheme where NRI nominations are explicitly prohibited, creating a FEMA compliance violation.",
+      "likelihood": "Low",
+      "impact": "High",
+      "inherent_risk_rating": "High",
+      "mitigating_controls": [
+        "Scheme-specific NRI eligibility checklist at point of registration",
+        "Staff training on active scheme restrictions",
+        "Rejection log for non-compliant nomination requests"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Regulatory Compliance Officer",
+      "regulatory_reference": "RBI Master Directions — Section C.8: NRI nomination restrictions"
+    },
+    {
+      "risk_id": "RSK-009",
+      "domain": "Governance and Compliance",
+      "risk_title": "Operations Based on Outdated Master Directions",
+      "description": "Staff or Receiving Offices apply superseded rules because internal policy documents were not updated simultaneously with the publication of revised RBI Master Directions.",
+      "likelihood": "Medium",
+      "impact": "Medium",
+      "inherent_risk_rating": "Medium",
+      "mitigating_controls": [
+        "Designated policy owner monitors RBI publications",
+        "Version-controlled policy documents with revision dates",
+        "Mandatory distribution acknowledgement from all Receiving Offices"
+      ],
+      "residual_risk_rating": "Low",
+      "risk_owner": "Policy / Compliance Team",
+      "regulatory_reference": "RBI Master Directions — Foreword: simultaneous update obligation"
+    }
+  ]
+}
